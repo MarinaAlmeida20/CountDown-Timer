@@ -1,0 +1,1 @@
+const FULL_DASH_ARRAY = 283;
